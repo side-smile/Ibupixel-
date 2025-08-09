@@ -7,7 +7,7 @@ Mr b² smile 😁
 </p>
  
  <a href="https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z">
- <img alt="Mr b² smile 😁 " height="300" src="https://files.catbox.moe/0kz48q.jpg".
+ <img alt="Mr b² smile 😁 " height="300" src="https://files.catbox.moe/g5qdok.jpg".
 
 </h1> 
 <p align="center"><b>Mr b² smile 😁</b>,  </p>
