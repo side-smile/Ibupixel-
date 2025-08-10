@@ -146,7 +146,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or B.M.B-TECH owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or 𝑀𝑅 𝐵² - 𝑀𝐷 owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -187,7 +187,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or B.M.B-TECH owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or 𝑀𝑅 𝐵² - 𝑀𝐷 owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -228,7 +228,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or B.M.B-TECH owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or 𝑀𝑅 𝐵² - 𝑀𝐷 owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -269,7 +269,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or B.M.B-TECH owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or 𝑀𝑅 𝐵² - 𝑀𝐷 owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -310,7 +310,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or B.M.B-TECH owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or 𝑀𝑅 𝐵² - 𝑀𝐷 owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -350,7 +350,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or B.M.B-TECH owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or 𝑀𝑅 𝐵² - 𝑀𝐷 owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -390,7 +390,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or B.M.B-TECH owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or 𝑀𝑅 𝐵² - 𝑀𝐷 owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -431,7 +431,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or B.M.B-TECH owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or 𝑀𝑅 𝐵² - 𝑀𝐷 owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -472,7 +472,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or B.M.B-TECH owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or 𝑀𝑅 𝐵² - 𝑀𝐷 owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -513,7 +513,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or B.M.B-TECH owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or 𝑀𝑅 𝐵² - 𝑀𝐷 owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -554,7 +554,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or B.M.B-TECH owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or 𝑀𝑅 𝐵² - 𝑀𝐷 owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -595,7 +595,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or B.M.B-TECH owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or 𝑀𝑅 𝐵² - 𝑀𝐷 owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -636,7 +636,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or B.M.B-TECH owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or 𝑀𝑅 𝐵² - 𝑀𝐷 owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -676,7 +676,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or B.M.B-TECH owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or 𝑀𝑅 𝐵² - 𝑀𝐷 owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -716,7 +716,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or B.M.B-TECH owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or 𝑀𝑅 𝐵² - 𝑀𝐷 owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
