@@ -4,7 +4,7 @@ const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "😄", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
   const githubRepo = 'https://api.github.com/repos/side-smile/Ibupixel-${repoName';
-  const img = 'https://files.catbox.moe/ccz8ht.jpg';
+  const img = 'https://files.catbox.moe/idioc5.jpg';';
 
   try {
     const response = await fetch(githubRepo);
@@ -24,7 +24,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "😄", nomFichier: __
       const gitdata = ` *hellow whatsaap user this is*  
 *𝑀𝑅 𝐵² - 𝑀𝐷.*\n support our channel *by*,  https://whatsapp.com/channel/0029VbAjawl9MF8vQQa0ZT32
 
-_________● *𝑀𝑅 𝐵² - 𝑀𝐷* ●__________
+_________● *𝑀𝑅 𝐵² - 𝑀𝐷* ●____________
 |💥 *ʀᴇᴘᴏsɪᴛᴏʀʏ:* ${data.html_url}
 |🌟 *sᴛᴀʀs:* ${repoInfo.stars}
 |🍽 *ғᴏʀᴋs:* ${repoInfo.forks}
@@ -33,7 +33,7 @@ _________● *𝑀𝑅 𝐵² - 𝑀𝐷* ●__________
 |👨‍💻 *ᴏᴡɴᴇʀ:* *𝑀𝑅 𝐵² - 𝑀𝐷*
 |💞 *ᴛʜᴇᴍᴇ:* *𝑀𝑅 𝐵² - 𝑀𝐷*
 |🥰 *ᴏɴʟʏ ɢᴏᴅ ᴄᴀɴ ᴊᴜᴅɢᴇ ᴍᴇ!👑*
-_______________________________
+_________________________________
             *ᴍᴀᴅᴇ ᴡɪᴛʜ 𝑀𝑅 𝐵² - 𝑀𝐷*`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
